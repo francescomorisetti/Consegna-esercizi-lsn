@@ -1,0 +1,8 @@
+mano a mano che abbassiamo la temperatura si trovano parametri sempre più stabili
+
+Per vedere la convergenza possiamo studiare l'andamento in funzione di T o di beta...
+oppure vedere qual è la traiettoria dei parametri
+
+OSS: per ottimizzare il primo stato eccitato si può imporre la funzione d'onda di prova come differenza di gaussiane e non come somma!
+
+Comodo partire dall'origine così il sistema si equilibra subitù               o

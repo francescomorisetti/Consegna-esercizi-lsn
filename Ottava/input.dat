@@ -1,0 +1,22 @@
+1.0
+1.0
+0.0
+2.5
+0.1
+200
+0.05
+100
+2000
+100
+
+  
+  ReadInput >> mu;
+  ReadInput >> sigma;
+  ReadInput >> x;
+  ReadInput >> delta;
+  ReadInput >> beta;
+  ReadInput >> SAsteps;
+  ReadInput >> eps;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> nbins;

@@ -1,0 +1,15 @@
+I pedici nelle probabilità indicano se abbiamo la condizionata di una variabile rispetto a un'altra
+
+Il campionamento alla Gibbs è utile quando siamo in uno spazio discreto. Nel modello di Ising la condizionata è il rapporto tra la congiunta (peso boltzmann exp(-beta*h)) e la marginale (spin k-esimo)
+
+h/2 nell'hamiltoniana serve per simmetrizzare
+
+Il modello di Ising 1D non ha una vera transizione di fase
+
+N.B la capacità termica è una funzione di risposta, la risposta del sistema quando provo a cambiare la temperatura è proporzionale alle fluttuazioni di energia. Di fatto è la risposta naturale del sistema a un cambio di temperatura. Per calcolare l'incertezza della capacità termica bisogna calcolare le fluttuazioni delle fluttuazioni -> Alla fine del blocco le fluttuazioni vanno accumulate e poi alla fine se ne calcolano gli errori!
+
+La susc magnetica è come risponde il sistema a una variazione nel campo magnetico esterno -> Proporzionale a fluttuazioni quadratiche della magnetizazione!
+
+Per campo esterno nullo e diverso da zero conviene fare due simulazioni diverse
+
+Utilizzare una decina di temperature per il calcolo delle grandezze d'interesse

@@ -1,0 +1,15 @@
+L'incertezza statistica cambia a seconda della lunghezza dei blocchi
+
+blocco molto lungo -> l'incertezza satura a un certo valore
+
+La g(r) occupa una porzione del vettore walker (almeno 100 indici nell'istogramma tra 0 e L/2)
+
+La velocità in questo caso non la consideriamo perchè è zero
+
+Mosse grandi=accettazione ridotta e viceversa
+
+Per il gas vanno bene accettazioni alte
+
+Formula autocorrelazione a pag 31 lezione 6
+
+N.B: delta non può andare oltre L/2 perchè non verrebbero rispettate le pbc, nel solido questo valore è più piccolo per via 

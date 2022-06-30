@@ -1,0 +1,10 @@
+Le coorinate nel file config sono scritte in unità di misura del lato, in lettura vanno moltoplicate per box (lunghezza lato in unità naturali) e uso anche le periodic boundary conditions
+
+Ocio, clean cancella TUTTI i file.dat
+
+Nei file di uscita abbiamo il valor medio nel blocco nella seconda colonna e il valor medio progressivo nella terza colonna (e l'errore nella quarta)
+
+Per visualizzare simulazioni uso ovito
+
+L'energia cinetica di un liquido che parte in una conf cristallina non si conserva perchè cresce quella potenziale => crolla anche la temperatura
+Il sistema va equilibrato, ovvero anche se partiamo da una T sbagliata deve muoversi verso una temperatura stabile. A questo punto faccio partire la simulazione da questa configurazione stabile

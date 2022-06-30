@@ -1,0 +1,8 @@
+Consiglio: programmazione a oggetti in cui sia presente una funzionalità di check
+Ovvero una verifica che tutta la popolazione soddisfi tutti i vincoli in un determinato momento
+
+Settare sempre la stessa prima città nella posizione uno 
+
+NB: un incrocio in questo algoritmo non è un buon segno
+
+Libreria utile: ARMADILLO
